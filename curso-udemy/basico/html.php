@@ -1,10 +1,10 @@
 <div class="titulo">Integração HTML</div>
 
-<!-- É possivel usar códigos PHP dentro de HTML e vice-versa, porém o mais indicado que não se faça isso. -->
+<!-- É possivel usar códigos PHP dentro de HTML. -->
 <h1>
     <?php
     echo 'Olá';
-    echo '<small>';
+    echo '<small>'; 
     echo ' Mundo!';
     echo '</small>'
     ?>

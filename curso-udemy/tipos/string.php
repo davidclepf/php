@@ -22,9 +22,9 @@ print "Também existe a função print <br>"; //Podemos usar sem parênteses tam
 // Algumas funções
 echo strtoupper('maximizado'), '<br>'; // Converte as letras em maiúsculas (strtoupper = string to upper)
 echo strtolower('MINIMIZADO'), '<br>'; // Converte as letras em minúsculas (strtolower = string to lower)
-echo ucfirst('só a primeira letra'), '<br>'; // Converte a primeira letra em minúsculas (ucfirst - uppercase first)
-echo ucwords('todas as primeiras letras de todas as palavras'), '<br>'; // Converte a primeira letra em minúsculas (ucwords - uppercase words)
-echo strlen('Qunatas letras?'), '<br>'; // Mostra o tamanho da string. (strlen - string lenght)
+echo ucfirst('só a primeira letra'), '<br>'; // Converte a primeira letra em maiúscula (ucfirst - uppercase first)
+echo ucwords('todas as primeiras letras de todas as palavras'), '<br>'; // Converte a primeira letra de todas as palavras em maiúscula (ucwords - uppercase words)
+echo strlen('Quantas letras?'), '<br>'; // Mostra o tamanho da string. (strlen - string lenght)
 echo mb_strlen('Eu também'), '<br>'; // Mostra o tamanho da string considerando o padrão UTF-8 (Não conta os acentos)
 echo substr("Só uma parte mesmo", 7, 6), '<br>'; // exibe os 5 caracteres apartir do índice 7. A contagem de índice se inicia no 0, e será contado 6 strings apartir do índice 7, porém a 6ª string não entra. Caso só seja passado um parâmetro será exibido até o final.
 

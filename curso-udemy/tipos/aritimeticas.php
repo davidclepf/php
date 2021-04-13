@@ -15,7 +15,7 @@ echo 7 % 4, '<br>'; // Retorna o resto da divisão
 echo 4 ** 2, '<br>'; //4 elevado à 2
 
 // Precedência de Operadores
-// Segue oas regras matemáticas
+// Segue as regras matemáticas
 // () => ** => / * => + -
 echo "<p>Precedência</p>";
 echo 2 + 3 * 4, '<br>';

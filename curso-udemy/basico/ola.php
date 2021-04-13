@@ -3,7 +3,7 @@
 <h2>Exemplo A</h2>
 <?php
     echo 'Olá ';
-    echo 'Mundo!';
+    echo 'Mundo!'
 ?>
 
 <h2>Exemplo B</h2>

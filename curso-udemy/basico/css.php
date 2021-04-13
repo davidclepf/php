@@ -1,6 +1,6 @@
 <div class="titulo">Integração CSS</div>
 
-<!-- É possivel usar códigos PHP dentro de HTML e vice-versa, porém o mais indicado que não se faça isso. -->
+<!-- É possivel usar códigos PHP dentro de HTML. -->
 <h1 center>
     <?php
     echo 'Olá';
@@ -21,7 +21,7 @@
         background-color: #4286f4;
         color: #EEE;
         font-weight: bold;
-        border-radius: 10px
+        border-radius: 10px;
     }
 
     [center] {

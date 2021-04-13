@@ -2,7 +2,7 @@
 
 <?php
 /* Enunciado:
-*  Avaliando os métodos a documentação da string, qual o método que a posição do texto 'abc' na string '!AbcaBcabc' retorna 1? 
+*  Avaliando os métodos e documentação da string, qual o método que a posição do texto 'abc' na string '!AbcaBcabc' retorna 1? 
 */
 
 echo stripos('!AbcaBcabc', 'abc');
