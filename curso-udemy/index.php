@@ -16,6 +16,45 @@
         <div class="conteudo">
             <nav class="modulos">
              
+                <div class="modulo laranja">
+                    <h3>5. Array</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">Básico</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">Mapa</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_index">Desafio Index</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=operacoes">Operações</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=multi">Multidimensionais</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=constantes">Arrays Constantes</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=get">$_GET</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=post">$_POST</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=comparacao">Comparação Arrays</a>
+                        </li>
+                    </ul>
+                </div>
+
                 <div class="modulo roxo">
                     <h3>4. Controle</h3>
                     <ul>
@@ -30,6 +69,18 @@
                         </li>
                         <li>
                             <a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores Lógicos</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio Op. Lógicos</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operador_ternario">Operador Ternário</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=switch">Switch</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch</a>
                         </li>
                     </ul>
                 </div>
