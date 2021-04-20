@@ -9,7 +9,7 @@ echo TAXA_DE_JUROS; //Para constantes não se usa o $ como em variáveis.
 const NOVA_TAXA = 2.5;
 echo '<br>' . NOVA_TAXA;
 
-// Não é possível atribuir um valor à uma constante através de 'const', mas é possível através da função 'define()'
+// Não é possível atribuir uma variável como valor à uma constante através de 'const', mas é possível através da função 'define()'
 $valorVariavel = 2.8;
 // const NOVISSIMA_TAXA = $valorVariavel;  //Não funcionará
 define('NOVISSIMA_TAXA', $valorVariavel); // Funcionará

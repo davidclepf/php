@@ -17,4 +17,4 @@ $variavelReferencia = &$variavel;
 $variavelReferencia = 'mesma referência';
 echo "<br>$variavel";
 echo "<br>$variavelReferencia";
-/* Na atribuição por referência, as variáveis usam o mesmo espaços na memória, portanto a alteração de uma variável afetará a outra */
+/* Na atribuição por referência, as variáveis usam o mesmo espaço na memória, portanto a alteração de uma variável afetará a outra */

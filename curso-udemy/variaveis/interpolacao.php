@@ -1,6 +1,8 @@
 <div class="titulo">Interpolação</div>
 
 <?php
+// Interpolação é o nome dado para a interpretação de variáveis dentro de strings
+
 $numero = 10;
 echo $numero;
 echo '<br> $numero'; //com aspas simples não será feita a interpolação (interpretar a variável)
