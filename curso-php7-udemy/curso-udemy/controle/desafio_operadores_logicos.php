@@ -32,9 +32,9 @@
 </style>
 
 <?php
-if(isset($_POST['t1']) && isset($_POST['t2'])) { // O código será rodado somente quando t1 e t2 estiverem setados (pos isso o uso de 'isset')
+if(isset($_POST['t1']) && isset($_POST['t2'])) { // O código será rodado somente quando t1 e t2 estiverem setados (por isso o uso de 'isset')
 
-    $t1 = $_POST['t1'] === '1'; // Compara a entrade de t1, se for 1 recebe true se for diferente de 1 recebe false
+    $t1 = $_POST['t1'] === '1'; // Se a entrada de $t1 for estritamente igual a 1, recebe true.
     $t2 = !!$_POST['t2']; // A dupla negação (!!) converte a string em boleano (true ou false)
     $tv = '';
     $sorvete = false;

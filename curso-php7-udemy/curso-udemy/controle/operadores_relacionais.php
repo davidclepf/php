@@ -16,10 +16,10 @@ echo "<br>";
 var_dump(1 <> 1); // Diferente
 echo "<br>";
 
-var_dump(111 == '111'); // Comparação
-var_dump(111 === '111'); // Comparação estrita 
-var_dump(111 != '111'); // Comparação
-var_dump(111 !== '111'); // Comparação estrita 
+var_dump(111 == '111'); // Comparação (Idualdade)
+var_dump(111 === '111'); // Comparação estrita (Idualdade)
+var_dump(111 != '111'); // Comparação (Diferença)
+var_dump(111 !== '111'); // Comparação estrita (Diferença)
 // Na comparação não será feito distinção quanto ao tipo dos dados, somente do conteúdo.
 // Na comparação estrita será feita a distinção e só será true se os dados forem idênticos
 

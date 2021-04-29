@@ -14,7 +14,7 @@ if($categoria === 'Luxo') {
     $preco = 80000;
 } elseif($categoria === 'Sedan') {
     $carro = 'Etios';
-    $preco = 3300;
+    $preco = 55000;
 } else {
     $carro = 'Mobi';
     $preco = 33000;
