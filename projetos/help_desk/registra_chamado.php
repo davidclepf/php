@@ -14,7 +14,7 @@
     // fopen — Abre um arquivo ou URL
     // caso o arquivo não exista, ele será criado
     // o primeiro parâmetro é o nome do arquivo, o segundo indica que o arquivo será aberto para escrita (existem vários parâmetros)
-    $arquivo = fopen('../app_help_desk/arquivo.hd', 'a');
+    $arquivo = fopen('app_help_desk/arquivo.hd', 'a');
 
     // recebe dois parâmetros: o primeiro é o nome do arquivo criado com o fopen, e o segundo é o que será escrito no arquivo
     fwrite($arquivo, $texto);

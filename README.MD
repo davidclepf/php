@@ -13,5 +13,8 @@ Endereço do curso: https://www.udemy.com/course/php-7-completo/
 
 	1. Help Desk
 		Script básico de help desk, com validação de login, criação e consulta de chamados.
+
+	2. Send Mail
+		App simples para envio de email em PHP.
 		
 Endereço do curso: https://www.udemy.com/course/web-completo/
